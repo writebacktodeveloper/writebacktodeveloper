@@ -3,17 +3,17 @@
 <h3 align="center">A passionate iOS app developer from India who has interest in iOS, electronics, cars, bikes and nature </h3>
 
 
-- 🔭 I’m currently working on **Malayalam Calendar**
+- 📅 I’m currently working on **Malayalam Calendar**
 
-- 🌱 Nowadays I am learning **Android application development**
+- 📱 Nowadays I am learning **Android application development**
 
-- 💬 Ask me about **Swift, iOS or Objective C**
+- 💬 Ask me about: ** Swift, iOS or Objective C**
 
-- 📫 How to reach me **writebacktodeveloper@gmail.com**
+- 💌 How to reach me: **writebacktodeveloper@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bTtXQYJqA6rdpfuM8k5oD0T2ffi0x8mO/view?usp=sharing](https://drive.google.com/file/d/1bTtXQYJqA6rdpfuM8k5oD0T2ffi0x8mO/view?usp=sharing)
 
-- ⚡ Fun fact **Thinks more about ET 👽**
+- 😜 Fun fact: ** Thinks more about ET 👽**
 
 
 <h3 align="left">Languages and Tools:</h3>
